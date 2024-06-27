@@ -78,7 +78,7 @@ body{
     background-color: #1C3F60;
 }
 .srvc{
-    margin-top: 5vh;
+   height: max-content;
 }
 #faq{
     width: 100%;
